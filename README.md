@@ -5,6 +5,7 @@
 1. pip install python-telegram-bot
 2. pip install opencv-python
 3. pip install flask
+4. pip install ipinfo
 
 # Software
 1. Anaconda Navigator (https://www.anaconda.com)
