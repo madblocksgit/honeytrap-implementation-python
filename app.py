@@ -7,7 +7,7 @@ from flask import Flask, render_template,request
 
 access_token='711b2872a97e79'
 token='1850524202:AAEhPC8UXOEBTtdK4xgM8tDXPuGytFY70us'
-chat_id=976034970
+chat_id=1274031285
 bot=telegram.Bot(token)
 
 app=Flask(__name__)
